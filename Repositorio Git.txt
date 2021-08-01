@@ -3,14 +3,10 @@ Criar o repositorio git
 copiar o url para clone
 acessar o diretorio do projeto
 
-git clone https://github.com/reginabecker/restassured-api-testing.git
+git clone https://github.com/reginabecker/regina-restassured-api-testing-.git
 
 git status
-
 git add .
-
 git status
-
 git commit -m "comentários das alterações"
-
-git push origin master
+git push origin 
