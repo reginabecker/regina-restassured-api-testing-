@@ -7,47 +7,47 @@
  ┃ ┃ ┣ 📂java
  ┃ ┃ ┃ ┣ 📂br												
  ┃ ┃ ┃ ┃	┣ 📂com							 					
- ┃ ┃ ┃ ┃	┃  ┣ 📂restassuredapitesting							
- ┃ ┃ ┃ ┃	┃  ┃ ┣📂runners										
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜Acceptance.java								
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜AllTests.java								
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜Contract.java								
- ┃ ┃ ┃ ┃	┃  ┃ ┣📂suites										
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜Acceptance.ja								
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜AllTests.java								
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📜Contract.java								
- ┃ ┃ ┃ ┃	┃  ┃ ┣📂tests										
- ┃ ┃ ┃ ┃	┃  ┃ ┣ 📂auth										
- ┃ ┃ ┃ ┃	┃  ┃ ┃ ┣ 📂requests									
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PostAuthRequest.java						
- ┃ ┃ ┃ ┃	┃  ┃ ┃ ┣ 📂tests										
- ┃ ┃ ┃ ┃	┃  ┃ ┃ ┣ 📜PostAuthTest.java							
- ┃ ┃ ┃ ┃	┃  ┣ ┃ 📂base										
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂requests					
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜BaseRequest.java		
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂tests						
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜BaseTest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ 📂booking				
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂contracts			
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜bookingID.json	
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜bookings.json
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂requests			
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜DeleteBookingRequest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜GetBookingRequest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PostBookingRequest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PutBookingRequest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂tests			
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜DeleteBookingTest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜GetBookingTest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PostBookingTest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜PutBookingTest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ 📂healthcheck
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂requests			
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜GetHealthCheckRequest.java
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📂tests			
- ┃ ┃ ┃ ┃	┃  ┣ ┃ ┣ 📜GetHealthCheckTest.java
- ┃ ┃ ┃ ┃	┃  ┃ ┣📂utils
- ┃ ┃ ┃ ┃	┃  ┃ ┣📜Utils.java
+ ┃ ┃ ┃ ┃	┃ ┣ 📂restassuredapitesting							
+ ┃ ┃ ┃ ┃	┃ ┃ ┣📂runners										
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜Acceptance.java								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜AllTests.java								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜Contract.java								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣📂suites										
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜Acceptance.ja								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜AllTests.java								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📜Contract.java								
+ ┃ ┃ ┃ ┃	┃ ┃ ┣📂tests										
+ ┃ ┃ ┃ ┃	┃ ┃ ┣ 📂auth										
+ ┃ ┃ ┃ ┃	┃ ┃ ┃ ┣ 📂requests									
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜PostAuthRequest.java						
+ ┃ ┃ ┃ ┃	┃ ┃ ┃ ┣ 📂tests										
+ ┃ ┃ ┃ ┃	┃ ┃ ┃ ┣ 📜PostAuthTest.java							
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ 📂base										
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂requests					
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜BaseRequest.java		
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂tests						
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜BaseTest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ 📂booking				
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂contracts			
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜bookingID.json	
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜bookings.json
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂requests			
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜DeleteBookingRequest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜GetBookingRequest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜PostBookingRequest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜PutBookingRequest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂tests			
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜DeleteBookingTest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜GetBookingTest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜PostBookingTest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜PutBookingTest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ 📂healthcheck
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂requests			
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜GetHealthCheckRequest.java
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📂tests			
+ ┃ ┃ ┃ ┃	┃ ┣ ┃ ┣ 📜GetHealthCheckTest.java
+ ┃ ┃ ┃ ┃	┃ ┃ ┣📂utils
+ ┃ ┃ ┃ ┃	┃ ┃ ┣📜Utils.java
  ┃ ┃ ┣ 📂resources
  ┃ ┃ ┃ ┗ 📜allure.properties
  ┃ ┃ ┃ ┗ 📜categories.json
